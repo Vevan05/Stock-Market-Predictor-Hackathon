@@ -60,7 +60,7 @@ function App() {
   return (
     <SafeAreaView style={styles.container}>
       <TouchableOpacity style = {styles.header}>
-      <Text style={styles.heading}>Trade Forcast</Text>
+      <Text style={styles.heading}>Trade Forecast</Text>
       </TouchableOpacity>
 
 
